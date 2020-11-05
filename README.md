@@ -1,2 +1,3 @@
 # Snake-Game
-A vert simple python Snake game on Pygame
+A very simple python Snake game on Pygame.
+Walls collision is allowed
